@@ -37,7 +37,7 @@ export const musics = [
         author: 'Coma-Media',
         genre: 'English',
         audio: './music/acoustic-motivation.mp3',
-        album_img: './imgs/adverb.png',
+        album_img: './imgs/Adverb.png',
         id: '5'
     },
     {
